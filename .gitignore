@@ -1,0 +1,11 @@
+# dependencies
+node_modules
+
+# build
+dist
+
+# typescript
+tsconfig.tsbuildinfo
+
+# Generated language files
+astro_tmp_pages_*
